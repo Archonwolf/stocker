@@ -1,0 +1,46 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.nav li a {
+    margin-left: 20px;
+}
+.socialLink a{
+    text-decoration: "none";
+    color: #464646;
+    padding-right: 25px;
+    font-size: larger;
+}
+.socialLink a:hover{
+  color:cornflowerblue;
+}
+.link a {
+  text-decoration: none;
+  color: #464646;
+  text-decoration-line: none;
+}
+.brockerage {
+  text-decoration: none;
+   color: black; 
+   font-size: 1.5rem;
+    margin-right: 5rem;
+}
+.brockerage:hover{
+  color: blue;
+}
+.ticketI{
+  color: black;
+}
+.ticketI:hover{
+  color:blue;
+}
